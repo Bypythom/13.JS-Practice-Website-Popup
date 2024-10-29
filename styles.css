@@ -1,0 +1,41 @@
+body {
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#submit-btn {
+    height: 75px;
+    width: 200px;
+    border-radius: 25px;
+    background-color: firebrick;
+    color: white;
+    font-size: x-large;
+    cursor: pointer;
+}
+#submit-btn:hover {
+    color: lightskyblue;
+    border: 2px lightskyblue;
+}
+
+.popup {
+    width: 400px;
+    background: white;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 50%;
+}
+
+
+
+
